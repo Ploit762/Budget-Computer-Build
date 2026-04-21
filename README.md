@@ -1,4 +1,4 @@
-- Here is a list of a solid budget PC that I bulit some time ago. It can ran current games at 1440p at 60FPS+ per second. The cost of this PC build ranges from a base start of $700 to about $1,700 depending on the specifications. This is including a 170Hz monitor and not including Mouse and keybored. Great start to a solid gaming PC experience, and very fast when it comes to multi-tasking when using Virtual Machines (VMs)
+- Here is a list of a solid budget PC that I bulit some time ago. It can run current games at 1440p at 60FPS+ per second. The cost of this PC build ranges from a base start of $700 to about $1,700 depending on the specifications. This is including a 170Hz monitor and not including Mouse and keybored. Great start to a solid gaming PC experience, and very fast when it comes to multi-tasking when using Virtual Machines (VMs)
 *<p align="center"> Prices that are not showing for certains parts can still be found on other website. </p>*
 
 <a href="https://pcpartpicker.com/list/6Y8CLy">PCPartPicker Part List</a>
